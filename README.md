@@ -1,7 +1,9 @@
 # Adidas Sales Performance Analysis for Year 2020-2021
 <img width="808" height="374" alt="Dashboard" src="https://github.com/user-attachments/assets/1d78175c-3f0a-463a-8fe0-6c68713813e2" />
+
 # Overview
 The dataset used for this project contains U.S. sales data for Adidas products, covering multiple aspects of the business including product details, sales channels, regional performance, and revenue metrics. It serves as a comprehensive snapshot of how Adidas products perform across different dimensions.
+
 # Objectives
 - Analyze Sales Performance Across Regions
  To identify which U.S. regions generate the highest and lowest revenue, and understand the geographic distribution of sales.
@@ -17,13 +19,16 @@ The dataset used for this project contains U.S. sales data for Adidas products, 
  To highlight underperforming areas (products, regions, or channels) where targeted marketing or operational changes could lead to better results.
 - Develop Visual Dashboards for Stakeholder Insights
  To create clear, interactive visualizations that communicate findings effectively and support data-driven decision-making.
+
 # Tools Used
 Microsoft excel: For data cleaning, pivot analysis, dashboards, and charts.
+
 # Key Steps:
 - Data Collection and Preparation: the dataset was collected from Kaggle, it was compiled and organized in Excel.
 - Data Cleaning: Before diving into the analysis, the dataset was cleaned to ensure accuracy and consistency. Checked for missing or inconsistent values (e.g., blank units, mismatched pricing), Removed any duplicate rows.
 - Data Analysis: Pivot tables were utilized to summarize data and extract key metrics. the analysis focused on identifying top performing cities, high revenue products, leading sales method, and monthly sales trends. Filters and slicers were applied to explore specific categories.
 - Data Visualization: various visual representation techniques were employed to communicate insights effectively. bar charts highlighted top regions, cities and products, while line graphs depicted monthly sales trends. pie charts were used to show proportional sales contributions by sales method. these visuals were integrated into an interactive dashboard to facilitate easy interpretation.
+  
 # Key Insights
 - Top Products by Sales
 Men’s Street Footwear generated the highest revenue, followed by Women’s Apparel and Men’s Athletic Footwear.
