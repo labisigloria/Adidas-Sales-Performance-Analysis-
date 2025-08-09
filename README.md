@@ -51,7 +51,7 @@ The data used for this analysis was sourced from Kaggle. The dataset includes th
 - Region
 - State
 - City
-- Producr
+- Product
 - Price per unit
 - Units sold
 - Total Sales
